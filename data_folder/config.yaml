@@ -1,28 +1,28 @@
-remote: [false]
+remote: false
 
 
 experienceLevel:
- internship: [false]
- entry: [true]
- associate: [true]
- mid-senior level: [true]
- director: [false]
- executive: [false]
+ internship: false
+ entry: true
+ associate: true
+ mid-senior level: true
+ director: false
+ executive: false
 
 jobTypes:
- full-time: [true]
- contract: [true]
- part-time: [false]
- temporary: [true]
- internship: [false]
- other: [false]
- volunteer: [false]
+ full-time: true
+ contract: true
+ part-time: false
+ temporary: true
+ internship: false
+ other: false
+ volunteer: false
 
 date:
- all time: [true]
- month: [true]
- week: [true]
- 24 hours: [true]
+ all time: true
+ month: true
+ week: true
+ 24 hours: true
 
 positions:
   - Reseach Associate
